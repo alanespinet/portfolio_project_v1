@@ -1,0 +1,25 @@
+body {
+  background-color: #eee;
+}
+
+.backimage {
+  height: 900px;
+  width: 100%;
+  background-image: url('../img/background-header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-left: 20%;
+  padding-right: 300px;
+}
+
+.header1 {
+  color: #178acc !important;
+  font-size: 72px !important;
+}
+
+.header3 {
+  color: #178acc !important;
+  font-size: 3em !important;
+  border-bottom: 2px solid #ccc;
+}
