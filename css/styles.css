@@ -10,7 +10,7 @@ body {
   background-position: center;
   background-size: cover;
   padding-left: 20%;
-  padding-right: 300px;
+  padding-right: 23%;
 }
 
 .header1 {
@@ -21,5 +21,19 @@ body {
 .header3 {
   color: #178acc !important;
   font-size: 3em !important;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 1px solid #178acc;
+}
+
+.firstColumn {
+  background-image: url('../img/woman.jpg');
+  background-size: 100% 100%;
+  height: 400px;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.amarillo {
+  background-color: yellow;
 }
